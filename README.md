@@ -1,12 +1,46 @@
-# 💫 About Me:
-Nisha Mishra<br><br>Education<br>Bachelor of Technology, Computer Science Sept 2023 – May 2027<br>University College Of Engineering and Technology, Hazaribag CGPA: 8.82<br>Experience<br>Arcade Facilitator Program, Google Cloud July 2024 – Sept 2024<br>• Participated in Google Cloud labs, gaining hands-on experience with cloud computing, interactive labs, and<br>collaborative learning.<br>• Built small projects demonstrating cloud deployment and application integration.<br>Web Development Intern, Bharat Intern June 2024 – July 2024<br>• Developed Netflix homepage clone using HTML, CSS, and JavaScript.<br>• Improved responsive design, UI/UX, and implemented interactive elements.<br>Cybersecurity Intern, IIT Patna April 2024 – June 2024<br>• Built ML/DL models for threat detection and anomaly analysis.<br>• Enhanced system security by detecting unusual activities and analyzing data patterns.<br>Projects<br>RABBIT — MERN E-Commerce Website (Deployed) Link<br>• Full-stack deployed e-commerce app with JWT authentication, PayPal integration, and admin dashboard.<br>• Managed product, cart, and order workflows; implemented state management using Redux Toolkit.<br>Rock Paper Scissors Game Link<br>• Browser game using HTML, CSS, and JavaScript; user plays against computer with instant result display.<br>Tic-Tac-Toe Game Link<br>• Classic interactive game built with HTML, CSS, and JavaScript.<br>• Features responsive design and smooth single-player gameplay.<br>Certificates / Achievements<br>• NPTEL C Programming – Certificate Link<br>• HTML and CSS Bootcamp – Certificate<br>• Google Cloud – Certificate<br>• IIT Patna Internship – Certificate<br>• Bharat Intern Internship – Certificate<br>Technical Skills<br>Languages C, Java, JavaScript<br>Web Technologies HTML5, CSS3, React.js, Express.js<br>API Development RESTful APIs using Node.js/Express.js<br>Databases MongoDB, SQL<br>Developer Tools Git, Visual Studio Code, Google Cloud Platform<br>CS Fundamentals Data Structures, Algorithms, Problem Solving<br>1
+I’m **Nisha Mishra**, a Computer Science undergraduate with a strong interest in **web development** and **full-stack application development**. I have hands-on experience building responsive and scalable web applications using the **MERN stack**.
+
+I have worked with organizations such as **Google Cloud Arcade Facilitator Program**, **Bharat Intern**, and **IIT Patna**, gaining practical exposure to real-world development, UI/UX improvement, and project-based learning. I enjoy solving problems, writing clean code, and continuously enhancing my technical skills through hands-on projects.
+
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nisha-mishra-5a67b02a9) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black)
+## 💻 Tech Stack
+
+### 👨‍💻 Programming Languages
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+
+### 🌐 Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend & APIs
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=plastic&logo=express&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD)
+
+### 🗄️ Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=plastic&logo=firebase)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=canva&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nisha10-18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Nisha10-18&theme=dark&hide_border=false)<br/>
