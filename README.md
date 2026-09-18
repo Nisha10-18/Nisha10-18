@@ -1,13 +1,12 @@
-<h1 align="center">Hi, I'm Nisha Mishra</h1>
-<h3 align="center">Full-Stack Web Developer | MERN Stack | Problem Solver</h3>
+# Hi, I'm Nisha Mishra
 
-<p align="center">
-I build scalable, user-focused web applications and enjoy solving real-world problems using clean and efficient code.
-</p>
+### Java Full Stack Developer
 
-<p align="center">
+Computer Science student interested in backend development, distributed systems, and building scalable applications using Java and Spring Boot.
+
+<p>
   <a href="https://linkedin.com/in/nisha-mishra-5a67b02a9">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nishaamishra10@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" />
@@ -16,70 +15,90 @@ I build scalable, user-focused web applications and enjoy solving real-world pro
 
 ---
 
-## 🚀 About Me
-- 🎓 3rd Year B.Tech Computer Science Student  
- - 💻 Strong in *Web Development & Full-Stack (MERN)*  
-- 🛠 Experience with *Google Cloud Arcade, Bharat Intern, IIT Patna*  
-- 🌱 Currently improving *DSA + System Design basics*  
-- 🎯 Goal: *Software Engineering Internship*
+## About
+
+- B.Tech Computer Science Student
+- Java Full Stack Developer
+- Currently learning Microservices, System Design & Cloud
+- Regularly solving Data Structures & Algorithms problems
+- Open to Software Engineering Internship opportunities
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 👩‍💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+### Languages
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=white)
 
-### 🌐 Frontend
+### Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-### 🧠 Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
+### Backend
 
-### ☁️ Tools & Platforms
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Core](https://img.shields.io/badge/Spring_Core-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat&logo=spring&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### Distributed Systems
+
+![Microservices](https://img.shields.io/badge/Microservices-2563EB?style=flat)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=flat)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
-- 🎥 *MERN Video Platform* – Authentication, CRUD, REST APIs  
-- 🛒 *E-Commerce Website* – Cart, product management, responsive UI
+## Featured Project
+
+### ReplyAi
+
+An AI-powered email reply generator that helps users draft context-aware email responses using Google's Gemini model.
+
+**Features**
+
+- AI-generated email replies
+- Multiple reply tones (Professional, Friendly, Formal, Casual)
+- Chrome Extension support
+- RESTful backend APIs
+- Clean layered architecture
+- Fast React-based frontend
+
+**Tech Stack**
+
+`Java` • `Spring Boot` • `Spring AI` • `React` • `REST APIs` • `Google Gemini API`
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nisha10-18&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=Nisha10-18&theme=tokyonight" height="160"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=Nisha10-18&theme=github-dark)
-
----
-
-## ✨ Quote That Inspires Me
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nisha10-18&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
+> *"Always learning, always building."*
